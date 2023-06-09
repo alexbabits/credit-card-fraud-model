@@ -1,0 +1,29 @@
+LGBM:
+
+{'n_estimators': 239, 'max_depth': 5, 'learning_rate': 0.009675325796398912, 'num_leaves': 106, 'min_child_samples': 35} 
+0.8181187973355434
+
+{'n_estimators': 247, 'max_depth': 5, 'learning_rate': 0.008278173054197634, 'num_leaves': 111, 'min_child_samples': 38}
+0.8198133884090248
+
+{'n_estimators': 246, 'max_depth': 4, 'learning_rate': 0.010424161821203435, 'num_leaves': 80, 'min_child_samples': 35}
+0.8174910726279826
+
+{'n_estimators': 351, 'max_depth': 5, 'learning_rate': 0.008247866264351107, 'num_leaves': 76, 'min_child_samples': 71}
+0.8248424636058443
+
+{'n_estimators': 213, 'max_depth': 4, 'learning_rate': 0.013492514826413293, 'num_leaves': 166, 'min_child_samples': 43}
+0.8271344496891819
+
+{'n_estimators': 214, 'max_depth': 5, 'learning_rate': 0.012328313949440709, 'num_leaves': 78, 'min_child_samples': 85}
+0.8268364376316575
+
+With 'Time': 
+{'n_estimators': 338, 'max_depth': 4, 'learning_rate': 0.006764077488435969, 'num_leaves': 94, 'min_child_samples': 40}
+0.8263953026103701
+
+{'n_estimators': 354, 'max_depth': 4, 'learning_rate': 0.007310753210726068, 'num_leaves': 180, 'min_child_samples': 38}
+0.8269593932289923
+
+{'n_estimators': 357, 'max_depth': 4, 'learning_rate': 0.007435283984100886, 'num_leaves': 136, 'min_child_samples': 46}
+0.8277228663612884
